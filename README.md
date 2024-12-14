@@ -1,4 +1,4 @@
-# Bangla-gold-dataset-for-morphological-analysis
+# Bangla-gold-dataset-for-metaphorical-analysis
 This Bangla Morphological Dataset is curated for research and development in Natural Language Processing (NLP) tasks specific to the Bangla language. The dataset provides labeled examples of Bangla words and their corresponding morphological attributes, enabling the analysis of word structure, inflection patterns, and root extraction techniques. Key features include:
 
 Scope: Focused on Bangla morphology, covering noun, verb, adjective, and other parts of speech.
